@@ -199,7 +199,7 @@ Commands can be copied and executed **one at a time**.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/3tternp/cpanel-security-hardening
 ```
 
 Enter the directory:
