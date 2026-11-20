@@ -230,7 +230,7 @@ less scripts/cpanel-rollback.sh
 
 ---
 
-# 🔍 Usage — Security Audit
+# 🔍 Usage Security Audit
 
 Make the audit script executable:
 
@@ -254,7 +254,7 @@ Review all findings carefully before making configuration changes.
 
 ---
 
-# 🔐 Usage — Apply Baseline Hardening
+# 🔐 Usage Apply Baseline Hardening
 
 ## ⚠️ Before Hardening
 
